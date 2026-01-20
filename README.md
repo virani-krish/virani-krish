@@ -9,11 +9,11 @@
 ---
 
 <!-- PROFILE IMAGE -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.imgur.com/6RMhx.gif" width="300" />
 </p> 
 
---- 
+---  -->
 
 
 
