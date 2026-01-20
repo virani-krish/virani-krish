@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Passionate Full Stack Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=700&lines=MERN+Stack+developer;Backend-Focused+Engineer;System+Design+%26+Database+Enthusiast" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=700&lines=MERN+Stack+developer;Backend-Focused+Engineer;System+Design+%26+Database+Enthusiast](https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=BACKEND+DEVELOPER;BACKEND+DEVELOPER)" />
 </p>
 
 ---
