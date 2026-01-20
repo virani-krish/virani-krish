@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Krish Virani</h1>
-<h3 align="center">🚀 Passionate Full Stack Web Developer</h3>
+<h3 align="center">🚀 Passionate Backend Developer</h3>
 
 <p align="center">
   <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=300&lines=MERN+Stack+developer;Backend-Focused+Engineer;System+Design+%26+Database+Enthusiast](https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=BACKEND+DEVELOPER;BACKEND+DEVELOPER)" />
@@ -9,19 +9,19 @@
 ---
 
 <!-- PROFILE IMAGE -->
-<!-- <p align="center">
+<p align="center">
   <img src="https://i.imgur.com/6RMhx.gif" width="300" />
 </p> 
 
 --- 
 
--->
+
 
 ## 🙋‍♂️ About Me
 
 - 🎓 Currently pursuing **Bachelor of Computer Application**
 - 💻 Love building **modern web apps**
-- 🌱 Learning **Advanced MERN & System Design**
+- 🌱 Learning **Advanced Backend & System Design**
 - 🎯 Goal: Become a **top-tier developer**
 - 📫 Email: **viranikrish27@gmail.com**
 
@@ -54,7 +54,7 @@
 
 ### ☁️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vite,cursor" />
+  <img src="https://skillicons.dev/icons?i=git,github,cursor" />
 </p>
 
 
